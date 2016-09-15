@@ -1,0 +1,3 @@
+[submodule "microprofile-conference"]
+	path = microprofile-conference
+	url = git@github.com:mikecroft/microprofile-conference.git
